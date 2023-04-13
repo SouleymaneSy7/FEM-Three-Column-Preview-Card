@@ -33,8 +33,8 @@ This is the Screenshot of my work!
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/three-column-preview-card-responsive-html-sass-vite-LU427RkYlU)
+- Live Site URL: [live site URL here](https://fem-three-column-preview-card.vercel.app/)
 
 ## My process
 
